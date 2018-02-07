@@ -1,0 +1,78 @@
+.data{
+	background: lightgrey;
+	width: 90%;
+	text-align: center;
+	margin: 5% 5%;
+	padding-top: 10px;
+	padding-bottom: 10px;	
+}
+
+.button-main{
+	width: 40%;
+	float: left;
+	display: inline;
+	margin: 5% 5%;
+}
+
+.form-element{
+	display: inline;
+	float: : left;	
+}
+
+.box{
+	min-height: 700px;
+	border: 5px solid;
+	border-spacing: 10px;
+	padding: 20px;
+}	
+
+.vegbox{
+	border-color: green;
+}	
+
+.fruitbox{
+	border-color: orange;
+}
+
+.center-box{
+	padding-left: 20px;
+	padding-right: 20px;  
+	text-align: center;
+}
+
+.toprow{
+	padding: 20px
+}
+
+.ordering-type{
+	font-size: 14px;
+	font-family: serif;
+	padding: 0px 2px;
+}
+
+.secondary-label{
+	padding-top: 20px; 
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+.custom-form{
+	background: lightgrey;
+	margin-top: 35%;
+	padding: 10px;
+	height: 300px;
+
+}
+
+.text{
+	float:left;
+	display: inline;
+	padding: 5px;
+}
+
+.ddown{
+	background: white;
+	width: 150px;
+	padding: 5px;
+	float: right;
+}
